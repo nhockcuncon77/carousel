@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/ales-nesetril-Im7lZjxeLhg-unsplash.jpg");
+  height: 400px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/adi-goldstein-EUsVwEOsblE-unsplash.jpg");
+  height: 400px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/fabio-oyXis2kALVg-unsplash.jpg");
+  height: 400px;
+}
